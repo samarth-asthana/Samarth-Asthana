@@ -19,6 +19,7 @@
 </a>
 
 <br/>
+<br/>
 
 - 🔭 I’m currently working on MERN Applications
 - 🌱 I’m currently learning React Native
