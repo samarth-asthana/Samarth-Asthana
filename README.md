@@ -9,5 +9,9 @@
 - 😄 Fun fact: I love movies. Except maybe horror movies.
 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=samarth-asthana&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<a href="https://github.com/samarth-asthana">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarth-asthana&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/samarth-asthana">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=samarth-asthana&show_icons=true&theme=light&line_height=27" />
+</a>
