@@ -27,7 +27,7 @@
 - 📫 How to reach me: [Linkedin-@samarth-asthana](https://www.linkedin.com/in/samarth-asthana-06857612b/) ||  [Instagram- @samarth.asthana](https://www.instagram.com/samarth.asthana/) 
 - 😄 Fun fact: I love movies. Except maybe horror movies.
 
-[![Linkedin: samarthasthana](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samarth-asthana-06857612b/)](https://www.linkedin.com/in/samarth-asthana-06857612b/)
+[![Linkedin: samarthasthana](https://img.shields.io/badge/-samarthasthana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samarth-asthana-06857612b/)](https://www.linkedin.com/in/samarth-asthana-06857612b/)
 [![GitHub samarth-asthana](https://img.shields.io/github/followers/samarth-asthana?label=follow&style=social)](https://github.com/samarth-asthana)
 
 **Languages and Tools:** 
