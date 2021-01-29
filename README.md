@@ -1,4 +1,4 @@
-### Hola, I'm [Samarth Asthana!](https://samarth-asthana.github.io/myportfolio/) 👋
+### Hola, I'm [Samarth Asthana!](https://samarth-asthana.github.io/portfolio.github.io/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarth-asthana&label=Views&color=blue&style=plastic" alt="samarth-asthana" /> </p>
 
