@@ -21,8 +21,8 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on MERN Applications
-- 💬 Ask me about javascript or any other tech stuff..
+- 🔭 I’m a Full Stack Developer..!
+<!-- - 💬 Ask me about javascript or any other tech stuff.. -->
 - 📫 How to reach me: [Linkedin-@samarth-asthana](https://www.linkedin.com/in/samarth-asthana-06857612b/) ||  [Instagram- @samarth.asthana](https://www.instagram.com/samarth.asthana/) 
 
 [![Linkedin: samarthasthana](https://img.shields.io/badge/-samarthasthana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samarth-asthana-06857612b/)](https://www.linkedin.com/in/samarth-asthana-06857612b/)
