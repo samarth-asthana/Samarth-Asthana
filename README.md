@@ -22,7 +22,9 @@
 <br/>
 
 - 🔭 I’m a Full Stack Developer..!
-<!-- - 💬 Ask me about javascript or any other tech stuff.. -->
+- 🌱 I’m currently learning Next.js and Docker.
+- - 👯 I’m looking to collaborate on building open source web applications that helps people in real life world with every day's needs.
+- - 💬 Ask me about anything, I don't bite, you can start with "hi 👋" 😅
 - 📫 How to reach me: [Linkedin-@samarth-asthana](https://www.linkedin.com/in/samarth-asthana-06857612b/) ||  [Instagram- @samarth.asthana](https://www.instagram.com/samarth.asthana/) 
 
 [![Linkedin: samarthasthana](https://img.shields.io/badge/-samarthasthana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samarth-asthana-06857612b/)](https://www.linkedin.com/in/samarth-asthana-06857612b/)
