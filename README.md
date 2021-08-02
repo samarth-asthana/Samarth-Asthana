@@ -20,7 +20,7 @@
 
 <br/>
 <br/>
-
+<!-- 
 - 🔭 I’m a Full Stack Developer..!
 - 🌱 I’m currently learning Next.js and Docker.
 - 👯 I’m looking to collaborate on building open source web applications that helps people in real life world with every day's needs.
@@ -29,8 +29,8 @@
 
 [![Linkedin: samarthasthana](https://img.shields.io/badge/-samarthasthana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samarth-asthana-06857612b/)](https://www.linkedin.com/in/samarth-asthana-06857612b/)
 [![GitHub samarth-asthana](https://img.shields.io/github/followers/samarth-asthana?label=follow&style=social)](https://github.com/samarth-asthana)
-
-**Languages and Tools:** 
+ -->
+<!-- **Languages and Tools:** 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -43,11 +43,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
+ -->
 
-
-<a href="https://github.com/samarth-asthana">
+<!-- <a href="https://github.com/samarth-asthana">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarth-asthana&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/samarth-asthana">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samarth-asthana&show_icons=true&theme=light&line_height=27" />
-</a>
+</a> -->
